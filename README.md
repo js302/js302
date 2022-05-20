@@ -12,21 +12,29 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div id="header" align="center">
+<!-- <div id="header" align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+</div> -->
+<h1 align="center">Hey! I am Jaskaran Singh</h1>
+<h3 align="center">A passionate backend developer from India</h3>
+<div align="left">
+  <img src="https://komarev.com/ghpvc/?username=Jaskaran320&style=flat-square&color=blue" alt=""/>
 </div>
+<br>
+
+- 🌱 I’m currently exploring **Web Development**
+- 📫 Reach out to me at **write2jaskaransingh@gmail.com**
+- 👨‍💻 Know more about me at [**my website**](https://jaskaran320.github.io/)
 
 ---
 
-<h1>
-  Hi There...
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
-
-## 😀 About Me:
-I am Jaskaran Singh. My interests include web development, finance, playing tennis and chess.
-<p align="center">
-  Visit my webpage at: https://jaskaran320.github.io/
+## 👋 Connect with me:
+<p align="left">
+<a href="www.linkedin.com/in/jaskaran-singh-490751222" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jaskaran-singh-490751222" height="30" width="40" /></a>
+<!-- <a href="https://fb.com/divyansh.mittal.10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="divyansh.mittal.10" height="30" width="40" /></a> -->
+<a href="https://www.instagram.com/singh.jaskaran320/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="singh.jaskaran320" height="30" width="40" /></a>
+<a href="https://twitter.com/7Jaskaran_Singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="7Jaskaran_Singh" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/Pro-Coder" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="Pro-Coder" height="30" width="40" /></a>
 </p>
 
 ---
@@ -53,16 +61,16 @@ I am Jaskaran Singh. My interests include web development, finance, playing tenn
 
 ## 💪 Stats:
 
-<div id="stats" align="center">
+<div id="stats" align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=Jaskaran320&show_icons=true&theme=dracula" alt="Jaskaran320's Stats"/>
 </div>
-<div id="langs" align="center">
+<div id="langs" align="left">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaskaran320&layout=compact&theme=dracula" alt="Jaskaran320's Top Langs"/>
 </div>
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Jaskaran320&style=flat-square&color=blue" alt=""/>
+<div id="streak" align="left">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Jaskaran320&theme=dracula" alt="streak" />
 </div>
-
+<!-- 
 ---
 
 ## 🤙 Get in touch:
@@ -77,6 +85,6 @@ I am Jaskaran Singh. My interests include web development, finance, playing tenn
   <a href="https://twitter.com/7Jaskaran_Singh">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-</div>
+</div> -->
 
 
