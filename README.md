@@ -57,7 +57,10 @@ I am Jaskaran Singh. My interests include web development, finance, playing tenn
 <img src="https://github-readme-stats.vercel.app/api?username=Jaskaran320&show_icons=true&theme=dracula" alt="Jaskaran320's Stats"/>
 </div>
 <div id="langs" align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaskaran320&theme=dracula" alt="Jaskaran320's Top Langs"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaskaran320&layout=compact&theme=dracula" alt="Jaskaran320's Top Langs"/>
+</div>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Jaskaran320&style=flat-square&color=blue" alt=""/>
 </div>
 
 ---
