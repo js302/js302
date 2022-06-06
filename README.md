@@ -31,10 +31,9 @@ Here are some ideas to get you started:
 ## 👋 Connect with me:
 <p align="left">
 <a href="www.linkedin.com/in/jaskaran-singh-490751222" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jaskaran-singh-490751222" height="30" width="40" /></a>
-<!-- <a href="https://fb.com/divyansh.mittal.10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="divyansh.mittal.10" height="30" width="40" /></a> -->
 <a href="https://www.instagram.com/singh.jaskaran320/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="singh.jaskaran320" height="30" width="40" /></a>
 <a href="https://twitter.com/7Jaskaran_Singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="7Jaskaran_Singh" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/Pro-Coder" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="Pro-Coder" height="30" width="40" /></a>
+<!-- <a href="https://codeforces.com/profile/Pro-Coder" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="Pro-Coder" height="30" width="40" /></a> -->
 </p>
 
 ---
