@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 </div>
 <br>
 
-- 🌱 I’m currently exploring **Web Development**
+- 🌱 I’m currently exploring **Quantum Computing**
 - 📫 Reach out to me at **write2jaskaransingh@gmail.com**
 - 👨‍💻 Know more about me at [**my website**](https://jaskaran320.github.io/)
 
