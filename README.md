@@ -1,28 +1,10 @@
-<!--
-**Jaskaran320/Jaskaran320** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<!-- <div id="header" align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
-</div> -->
-<h1 align="center">Hey! I am Jaskaran Singh</h1>
-<h3 align="center">A passionate backend developer from India</h3>
+<h1 align="center">Hi! I am Jaskaran</h1>
+<h3 align="center">A passionate coder from India</h3>
 <div align="left">
   <img src="https://komarev.com/ghpvc/?username=Jaskaran320&style=flat-square&color=blue" alt=""/>
 </div>
 <br>
 
-- 🌱 I’m currently exploring **Quantum Computing**
 - 📫 Reach out to me at **write2jaskaransingh@gmail.com**
 - 👨‍💻 Know more about me at [**my website**](https://jaskaran320.github.io/)
 
