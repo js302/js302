@@ -5,7 +5,7 @@
 </div>
 <br>
 
-- 📫 Reach out to me at **write2jaskaransingh@gmail.com**
+- 📫 Reach out to me at [**here**](mailto:write2jaskaransingh@gmail.com)
 - 👨‍💻 Know more about me at [**my website**](https://jaskaran320.github.io/)
 
 ---
@@ -48,16 +48,14 @@
 <div id="langs" align="left">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaskaran320&layout=compact&theme=dracula" alt="Jaskaran320's Top Langs"/>
 </div>
-<div id="streak" align="left">
+<!-- <div id="streak" align="left">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Jaskaran320&theme=dracula" alt="streak" />
-</div>
-<!-- 
----
+</div> -->
 
 ## 🤙 Get in touch:
 
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/jaskaran-singh-490751222/">
+  <a href="https://www.linkedin.com/in/jaskaran-singh7/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://mail.google.com/mail/u/1/?view=cm&fs=1&to=jaskaran20306@iiitd.ac.in&tf=1">
@@ -66,6 +64,6 @@
   <a href="https://twitter.com/7Jaskaran_Singh">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-</div> -->
+</div>
 
 
