@@ -67,9 +67,9 @@
   <a href="https://mail.google.com/mail/u/1/?view=cm&fs=1&to=jaskaran20306@iiitd.ac.in&tf=1">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
-  <a href="https://twitter.com/7Jaskaran_Singh">
+<!--   <a href="https://twitter.com/">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
+  </a> -->
 </div>
 
 
