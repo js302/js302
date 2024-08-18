@@ -5,14 +5,14 @@
 </div>
 <br>
 
-<!-- - 📫 Reach out to me [**here**](mailto:write2jaskaransingh@gmail.com)
-- 👨‍💻 Know more about me at [**my website**](https://jaskaran320.github.io/) 
+<!-- - 📫 Reach out to me [**here**](mailto:write2jaskaransingh@gmail.com) -->
+👨‍💻 Know more about me at [**my website**](https://jsingh.vercel.app/) 
 
---- -->
+--- 
 
 ## 👋 Connect with me:
 <p align="left">
-<a href="mailto:write2jaskaransingh@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="mailto:write2jaskaransingh@gmail.com" height="30" width="100" /></a>  
+<a href="mailto:jaskaransingh.official7@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="mailto:jaskaransingh.official7@gmail.com" height="30" width="100" /></a>  
 <a href="www.linkedin.com/in/jaskaran-singh-490751222" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jaskaran-singh-490751222" height="30" width="40" /></a>
 <!-- <a href="https://www.instagram.com/jaskaran.s1ngh7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jaskaran_.singh_" height="30" width="40" /></a> -->
 <!-- <a href="https://twitter.com/7Jaskaran_Singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="7Jaskaran_Singh" height="30" width="40" /></a> -->
@@ -59,18 +59,17 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Jaskaran320&theme=dracula" alt="streak" />
 </div> -->
 
-## 🤙 Get in touch:
 
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/jaskaran-singh7/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://mail.google.com/mail/u/1/?view=cm&fs=1&to=jaskaran20306@iiitd.ac.in&tf=1">
-    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail Badge"/>
-  </a>
+<!-- <div id="badges" align="center"> -->
+<!--   <a href="https://www.linkedin.com/in/jaskaran-singh7/"> -->
+<!--     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/> -->
+<!--   </a> -->
+<!--   <a href="https://mail.google.com/mail/u/1/?view=cm&fs=1&to=jaskaran20306@iiitd.ac.in&tf=1"> -->
+<!--     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail Badge"/> -->
+<!--   </a> -->
 <!--   <a href="https://twitter.com/">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a> -->
-</div>
+<!-- </div> -->
 
 
