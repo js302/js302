@@ -1,7 +1,7 @@
 <h1 align="center">Hi! I am Jaskaran</h1>
 <h3 align="center">A passionate coder from India</h3>
 <div align="left">
-  <img src="https://komarev.com/ghpvc/?username=Jaskaran320&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=js302&style=flat-square&color=blue" alt=""/>
 </div>
 <br>
 
@@ -49,14 +49,14 @@
 ## 💪 Stats:
 
 <div id="stats" align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=Jaskaran320&show_icons=true&theme=github_dark&hide=contribs,issues" alt="Jaskaran320's Stats"/>
-<!--   [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Jaskaran320&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only) -->
+<img src="https://github-readme-stats.vercel.app/api?username=js302&show_icons=true&theme=github_dark&hide=contribs,issues" alt="js302's Stats"/>
+<!--   [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=js302&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only) -->
 </div>
 <div id="langs" align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaskaran320&layout=compact&theme=github_dark" alt="Jaskaran320's Top Langs"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=js302&layout=compact&theme=github_dark" alt="js302's Top Langs"/>
 </div>
 <!-- <div id="streak" align="left">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Jaskaran320&theme=dracula" alt="streak" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=js302&theme=dracula" alt="streak" />
 </div> -->
 
 
