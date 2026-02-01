@@ -1,12 +1,14 @@
 <h1 align="center">Hi! I am Jaskaran</h1>
 <h3 align="center">A passionate coder from India</h3>
-<div align="left">
+<!-- <div align="left">
   <img src="https://komarev.com/ghpvc/?username=js302&style=flat-square&color=blue" alt=""/>
-</div>
+</div> -->
 <br>
 
 <!-- - 📫 Reach out to me [**here**](mailto:write2jaskaransingh@gmail.com) -->
-👨‍💻 Know more about me at [**my website**](https://jsingh.vercel.app/) 
+Know more about me at [**my website**](https://jsingh.vercel.app/) 
+<br>
+Check out my [Google Scholar](https://scholar.google.com/citations?user=7e2-d74AAAAJ&hl=en/)
 
 --- 
 
